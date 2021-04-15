@@ -1,0 +1,9 @@
+[submodule "hardclanz-init"]
+	path = hardclanz-init
+	url = https://github.com/EmptiedSoul/hardclanz-init.git
+[submodule "hpkg"]
+	path = hpkg
+	url = https://github.com/EmptiedSoul/hpkg.git
+[submodule "hardclanz-packages"]
+	path = hardclanz-packages
+	url = https://github.com/EmptiedSoul/hardclanz-packages.git
